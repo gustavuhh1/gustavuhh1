@@ -1,6 +1,6 @@
 # Oi!! meu nome é Gustavo Martins
 
-- 💻 Procura de emprego: pra desenvolver prática sobre a área de programação
+- 💻 Procura de estagio: pra desenvolver prática sobre o mercado de trabalho 
 - 🐍 Atualmente: estudando Python
 - 😄 Pronouns: ele/dele
  <div>
