@@ -1,7 +1,7 @@
 # Oi!! meu nome é Gustavo Martins
 
 - 💻 Procura de estagio: pra desenvolver prática sobre o mercado de trabalho 
-- 🐍 Atualmente: estudando Python
+- 🐍 Atualmente: estudando tudo que aparecer de novo, Typescript, Nodejs, Design Patterns, Data Models(relational & nonRelational), Tailwind, React e etc
 - 😄 Pronouns: ele/dele
  <div>
   <a href="https://github.com/gustavuhh1">
